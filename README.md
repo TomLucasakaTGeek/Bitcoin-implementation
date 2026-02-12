@@ -808,17 +808,6 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🚀 Next Steps
-
-1. ✅ Clone this repository
-2. ✅ Run all demonstrations
-3. ✅ Read the documentation
-4. ✅ Complete exercises
-5. ✅ Extend with your own features
-6. ✅ Apply to Summer of Bitcoin!
-
----
-
 <div align="center">
 
 **Happy Learning! 🎓**
